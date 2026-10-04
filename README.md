@@ -1,6 +1,6 @@
 # Week 2: Advanced Python & Data Structure
 # IEEE LGU AI/ML Cohart One
-AI/ML Leads: **Abdullah Faisal & Alina Irshad**
+# AI/ML Leads: **Abdullah Faisal & Alina Irshad**
 # ieee-movie-night-planner
 
 # Description
