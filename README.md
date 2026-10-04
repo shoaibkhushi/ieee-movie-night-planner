@@ -14,5 +14,8 @@ Search movies
 Manage Movie Information
 
 ## Technologies Used
-Python Oop
-CSV / File Handling
+Python 
+Object-Oriented Programming (OOP)
+Foile Handling
+Error & Exceptional Handling
+Data Structure
